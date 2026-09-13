@@ -2,7 +2,7 @@
   "pnrs": {
     "trip": {
       "chart_prepared": false,
-      "checked_at": "2026-09-13T06:40:05.955281+00:00",
+      "checked_at": "2026-09-13T06:42:08.091420+00:00",
       "confirmed": true,
       "current_statuses": [
         "CNF"
@@ -12,7 +12,22 @@
       "provider": "easemytrip",
       "raw_summary": "Train 09080 INDB MMCT SF SPL | Chart: Chart Not Prepared | Current: CNF",
       "waiting_numbers": []
+    },
+    "trip2": {
+      "chart_prepared": false,
+      "checked_at": "2026-09-13T06:42:09.141821+00:00",
+      "confirmed": false,
+      "current_statuses": [
+        "RLWL  25"
+      ],
+      "pnr": "2263051632",
+      "pnr_id": "trip2",
+      "provider": "easemytrip",
+      "raw_summary": "Train 12956 JP MMCT SF EXP | Chart: Chart Not Prepared | Current: RLWL  25",
+      "waiting_numbers": [
+        25
+      ]
     }
   },
-  "updated_at": "2026-09-13T06:40:05.955446+00:00"
+  "updated_at": "2026-09-13T06:42:09.141991+00:00"
 }
